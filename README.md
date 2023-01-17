@@ -9,9 +9,9 @@
 2. [Develop](./Develop/README.md)
 `Docker`
 
-## 目录
-- Environmental
-    - GitLab
-- Language
-    - Python
+3. [Language](./Language/README.md)
+`Python`
+
+4. [Tools](./Tools/README.md)
+`Oh-my-zsh`
 
